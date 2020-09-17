@@ -1,7 +1,7 @@
 # cache
 Two level Cache API
 
-run the run.sh or run.bat file inside the cashe folder.
+Run run.sh or run.bat file inside the cashe folder.
 
 Write data in the cache using below commend
 
